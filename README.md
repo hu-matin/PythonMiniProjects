@@ -1,8 +1,8 @@
-# About
+## About
 
 Some mini-projects with python to improve your python skills.
 
-# Projects
+## Projects
 
 There are some projects below.
 > [!IMPORTANT]
