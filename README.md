@@ -12,7 +12,7 @@
 
 | ID | Nmae | Link |
 | :-: | --- | --- |
-| 1 | DictRoller | [Here](./DictRoller) |
+| 1 | DiceRoller | [Here](./DiceRoller) |
 | 2 | EmailValidation | [Here](./EmailValidation) |
 
 ---
