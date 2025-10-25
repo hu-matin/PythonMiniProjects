@@ -14,7 +14,8 @@
 | :-: | --- | --- |
 | 1 | DiceRoller | [Here](./DiceRoller) |
 | 2 | EmailValidation | [Here](./EmailValidation) |
-| 3 | MorseTranslator | [Here](./MorseTranslator)
+| 3 | MorseTranslator | [Here](./MorseTranslator) |
+| 4 | Clock | [Here](./Clock) |
 
 ---
 Made with ❤ for you :)
