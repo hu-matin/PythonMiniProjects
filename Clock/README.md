@@ -1,4 +1,4 @@
-# MorseTranslator
+# Terminal Clock
 
 **This script helps you simulate dice throwing.**
 
@@ -6,3 +6,4 @@
 > This code needs to install (colorama) library.
 
 Just run the code.
+
