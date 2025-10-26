@@ -16,6 +16,7 @@
 | 2 | EmailValidation | [Here](./EmailValidation) |
 | 3 | MorseTranslator | [Here](./MorseTranslator) |
 | 4 | Clock | [Here](./Clock) |
+| 5 | IsPalindrome | [Here](./IsPalindrome) |
 
 ---
 Made with ❤ for you :)
