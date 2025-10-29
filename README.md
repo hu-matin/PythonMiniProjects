@@ -17,6 +17,7 @@
 | 3 | MorseTranslator | [Here](./MorseTranslator) |
 | 4 | Clock | [Here](./Clock) |
 | 5 | IsPalindrome | [Here](./IsPalindrome) |
+| 6 | FindWords | [Here](./FindWords) |
 
 ---
 Made with ❤ for you :)
