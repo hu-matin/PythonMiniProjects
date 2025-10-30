@@ -7,8 +7,9 @@
 
 # Projects
 
-> [!]
+> [!TIP]
 > **You can find projects here.**
+
 
 | ID | Nmae | Link |
 | :-: | --- | --- |
