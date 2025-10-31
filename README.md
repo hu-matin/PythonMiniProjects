@@ -19,6 +19,7 @@
 | 4 | Clock | [Here](./Clock) |
 | 5 | IsPalindrome | [Here](./IsPalindrome) |
 | 6 | FindWords | [Here](./FindWords) |
+| 7 | TypingSpeed | [Here](./TypingSpeed) |
 
 ---
 Made with ❤ for you :)
