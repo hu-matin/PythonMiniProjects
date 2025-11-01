@@ -20,6 +20,7 @@
 | 5 | IsPalindrome | [Here](./IsPalindrome) |
 | 6 | FindWords | [Here](./FindWords) |
 | 7 | TypingSpeed | [Here](./TypingSpeed) |
+| 8 | PasswordGenerator | [Here](./PasswordGenerator) |
 
 ---
 Made with ❤ for you :)
