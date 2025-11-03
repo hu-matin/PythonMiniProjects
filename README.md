@@ -22,6 +22,7 @@
 | 7 | TypingSpeed | [Here](./TypingSpeed) |
 | 8 | PasswordGenerator | [Here](./PasswordGenerator) |
 | 9 | GuessNumber | [Here](./GuessNumber) |
+| 10 | Calculator | [Here](./Calculator) |
 
 ---
 Made with ❤ for you :)
