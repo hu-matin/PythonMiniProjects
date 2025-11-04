@@ -25,4 +25,5 @@
 | 10 | Calculator | [Here](./Calculator) |
 
 ---
+
 Made with ❤ for you :)
